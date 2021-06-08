@@ -1,5 +1,5 @@
 # HTTP/s proxy-scaper
-# Created By: Lizard
+# Created By: Ben Pinney
 # Example: python[version] proxy.py
 
 from bs4 import BeautifulSoup
